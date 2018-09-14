@@ -1,3 +1,3 @@
 # Hello VuePress!
 
-Click [index.html](/docs/.vuepress/dist/index.html/)
+Click [index.html](http://libaoxi.github.io/docs/.vuepress/dist/index.html/)
