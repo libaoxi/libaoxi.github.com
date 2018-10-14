@@ -3393,7 +3393,7 @@ koa-webpack@^4.0.0:
     webpack-hot-client "^3.0.0"
     webpack-log "^1.1.1"
 
-koa@^2.4.1:
+koa@2.5.3, koa@^2.4.1:
   version "2.5.3"
   resolved "http://registry.npm.taobao.org/koa/download/koa-2.5.3.tgz#0b0c37eee3aac807a0a6ad36bc0b8660f12d83f1"
   dependencies:
