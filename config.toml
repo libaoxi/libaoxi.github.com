@@ -1,6 +1,6 @@
-baseURL = 'https://libaoxi.github.io/'
 languageCode = 'zh-cn'
 title = "baoxi's blog"
 theme = "anubis"
+relativeurls = true
 
 googleAnalytics = "G-8F4C79HR74"
