@@ -1,5 +1,9 @@
 languageCode: 'zh-cn'
 title: "baoxi's blog"
-theme: "anubis"
+theme: "book"
 relativeurls: true
 googleAnalytics: "G-8F4C79HR74"
+
+params:
+  BookTheme: auto
+  BookSection: "*"
